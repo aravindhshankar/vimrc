@@ -5,3 +5,5 @@ set shellcmdflag=-command
 set shellquote="
 set shellxquote=
 colorscheme desert
+set tabstop=4
+set shiftwidth=4
